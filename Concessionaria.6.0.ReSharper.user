@@ -1,0 +1,617 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1853D6FB-1FED-4198-95DB-6A02EC67ECE6/d:Repositorios/f:ILojaDAO.cs" caret="0" fromTop="0" />
+      <File id="BC436F6C-3E45-44A5-B18D-4C0D13B12EF6/d:Repositorios/f:LojaDAO.cs" caret="0" fromTop="0" />
+      <File id="1853D6FB-1FED-4198-95DB-6A02EC67ECE6/d:Repositorios/f:IRepositorio.cs" caret="0" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:cadastro.aspx" caret="693" fromTop="12" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/f:Global.asax.cs" caret="472" fromTop="17" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/f:inserirDadosTeste.aspx" caret="0" fromTop="0" />
+      <File id="BC436F6C-3E45-44A5-B18D-4C0D13B12EF6/d:Helpers/f:DAO.cs" caret="1162" fromTop="24" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx.designer.cs" caret="2450" fromTop="10" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/f:cadLojaAjax.aspx.cs" caret="0" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:cadVeiculos.aspx.cs" caret="808" fromTop="24" />
+      <File id="1853D6FB-1FED-4198-95DB-6A02EC67ECE6/d:Servicos/f:LojaServico.cs" caret="596" fromTop="20" />
+      <File id="1853D6FB-1FED-4198-95DB-6A02EC67ECE6/d:Entidades/f:Loja.cs" caret="0" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/f:Site.Master" caret="337" fromTop="6" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:configs.aspx" caret="0" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Loja/f:crudLoja.aspx" caret="0" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/f:cadLojaAjax.aspx" caret="402" fromTop="5" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:cadLojas.aspx" caret="1031" fromTop="17" />
+      <File id="1853D6FB-1FED-4198-95DB-6A02EC67ECE6/d:Servicos/f:VeiculoServico.cs" caret="1126" fromTop="41" />
+      <File id="1853D6FB-1FED-4198-95DB-6A02EC67ECE6/d:Repositorios/f:IVeiculoDAO.cs" caret="149" fromTop="5" />
+      <File id="BC436F6C-3E45-44A5-B18D-4C0D13B12EF6/d:Repositorios/f:VeiculoDAO.cs" caret="1015" fromTop="29" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/f:geraXmlDados.aspx" caret="126" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Loja/f:crudLoja.aspx.cs" caret="797" fromTop="24" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/f:geraXmlDados.aspx.cs" caret="5678" fromTop="45" />
+      <File id="BC436F6C-3E45-44A5-B18D-4C0D13B12EF6/d:Helpers/f:DatabaseCreator.cs" caret="1557" fromTop="36" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:cadVeiculos.aspx" caret="0" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="4846" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1206" fromTop="26" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:Styles/f:Site.css" caret="4407" fromTop="34" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx" caret="513" fromTop="3" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx.cs" caret="8338" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BC436F6C-3E45-44A5-B18D-4C0D13B12EF6/d:Helpers/f:DatabaseCreator.cs" caret="1557" fromTop="36" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx.cs" caret="7386" fromTop="23" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx" caret="2414" fromTop="31" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1418" fromTop="46" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="2263" fromTop="9" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="2550" fromTop="13" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="2842" fromTop="17" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="3134" fromTop="21" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="3423" fromTop="25" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="3762" fromTop="24" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="4954" fromTop="23" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1401" fromTop="10" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1401" fromTop="8" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="6457" fromTop="29" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="7009" fromTop="38" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="0" fromTop="0" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1401" fromTop="15" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1401" fromTop="4" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1401" fromTop="24" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1402" fromTop="31" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="902" fromTop="17" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="2028" fromTop="5" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx.cs" caret="4846" fromTop="27" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:ajax/d:CRUD/d:Veiculo/f:crudVeiculo.aspx" caret="1206" fromTop="26" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx" caret="1700" fromTop="16" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx" caret="513" fromTop="3" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:Styles/f:Site.css" caret="4407" fromTop="34" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx.cs" caret="2995" fromTop="19" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx.cs" caret="3543" fromTop="34" />
+      <File id="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D/d:pages/f:visualisar.aspx.cs" caret="6053" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="AspCodeCompletionContext">
+      <Item value="target" priority="6" />
+      <Item value="&amp;copy;" priority="5" />
+      <Item value="asp" priority="13" />
+      <Item value="MenuItem`0" priority="6" />
+      <Item value="NavigateUrl" priority="6" />
+      <Item value="asp:MenuItem" priority="6" />
+      <Item value="Text" priority="6" />
+      <Item value="pages" priority="6" />
+      <Item value="cadLojas.aspx" priority="6" />
+      <Item value="cadVeiculos.aspx" priority="6" />
+      <Item value="&amp;iacute;" priority="4" />
+      <Item value="cadastro.aspx" priority="6" />
+      <Item value="div" priority="34" />
+      <Item value="id" priority="98" />
+      <Item value="input" priority="14" />
+      <Item value="type" priority="28" />
+      <Item value="button" priority="6" />
+      <Item value="value" priority="13" />
+      <Item value="script" priority="20" />
+      <Item value="language" priority="6" />
+      <Item value="javascript" priority="6" />
+      <Item value="text/javascript" priority="13" />
+      <Item value="ClientIDMode" priority="34" />
+      <Item value="Static" priority="27" />
+      <Item value="ViewStateMode" priority="41" />
+      <Item value=".." priority="76" />
+      <Item value="Content" priority="69" />
+      <Item value="loading.gif" priority="6" />
+      <Item value="width" priority="41" />
+      <Item value="height" priority="41" />
+      <Item value="img" priority="48" />
+      <Item value="src" priority="34" />
+      <Item value="del.png" priority="13" />
+      <Item value="ImageUrl" priority="13" />
+      <Item value="save.png" priority="20" />
+      <Item value="asp:ImageButton" priority="6" />
+      <Item value="cancel.png" priority="13" />
+      <Item value="&amp;nbsp;" priority="11" />
+      <Item value="Width" priority="13" />
+      <Item value="Height" priority="13" />
+      <Item value="divResultado" priority="6" />
+      <Item value="Click" priority="21" />
+      <Item value="client" priority="21" />
+      <Item value="" priority="7" />
+      <Item value="server" priority="14" />
+      <Item value="br" priority="27" />
+      <Item value="TableRow`0" priority="6" />
+      <Item value="SelectedIndexChanged" priority="15" />
+      <Item value="DropDownListLoja_OnSelectedIndexChanged" priority="6" />
+      <Item value="TextChanged" priority="13" />
+      <Item value="asp:DropDownList" priority="6" />
+      <Item value="add.png" priority="13" />
+      <Item value="ImageAlign" priority="20" />
+      <Item value="Middle" priority="20" />
+      <Item value="Top" priority="6" />
+      <Item value="align" priority="14" />
+      <Item value="middle" priority="20" />
+      <Item value="style" priority="20" />
+      <Item value="alignment-adjust" priority="7" />
+      <Item value="OnClientClick" priority="6" />
+      <Item value="TextBoxNome_OnTextChanged" priority="6" />
+      <Item value="AutoPostBack" priority="13" />
+      <Item value="Disabled" priority="13" />
+      <Item value="alt" priority="13" />
+      <Item value="Styles" priority="6" />
+      <Item value="Site.css" priority="6" />
+      <Item value="imgCancelar" priority="6" />
+      <Item value="imgSalvar" priority="6" />
+      <Item value="onclick" priority="6" />
+      <Item value="buscarVeiculo" priority="7" />
+      <Item value="selected" priority="13" />
+      <Item value="display" priority="15" />
+      <Item value="none" priority="19" />
+      <Item value="textarea" priority="7" />
+      <Item value="rows" priority="6" />
+      <Item value="cols" priority="6" />
+      <Item value="xml.png" priority="6" />
+      <Item value="wrap" priority="6" />
+      <Item value="Enabled" priority="6" />
+      <Item value="CssClass" priority="13" />
+      <Item value="even" priority="13" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlEntityCodeCompletionContext">
+      <Item value="&amp;copy;" priority="0" />
+      <Item value="&amp;iacute;" priority="4" />
+      <Item value="&amp;nbsp;" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="darkred" priority="32" />
+      <Item value="firebrick" priority="9" />
+      <Item value="btIncluir" priority="4" />
+      <Item value="divLoja" priority="13" />
+      <Item value="alignment-adjust" priority="0" />
+      <Item value="middle" priority="1" />
+      <Item value="url" priority="4" />
+      <Item value="context-menu" priority="4" />
+      <Item value="ImageButtonCancelar" priority="4" />
+      <Item value="txtNomeLoja" priority="16" />
+      <Item value="imgSalvarLoja" priority="3" />
+      <Item value="divResultadoLoja" priority="11" />
+      <Item value="imgCancelarLoja" priority="3" />
+      <Item value="imgOcultarLoja" priority="4" />
+      <Item value="display" priority="1" />
+      <Item value="none" priority="3" />
+      <Item value="imgXml" priority="4" />
+      <Item value="divXml" priority="7" />
+      <Item value="divVeiculo" priority="4" />
+      <Item value="background" priority="11" />
+      <Item value="background-color" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="763" />
+      <Item value="virtual" priority="383" />
+      <Item value="int" priority="319" />
+      <Item value="get" priority="164" />
+      <Item value="set" priority="98" />
+      <Item value="string" priority="415" />
+      <Item value="ConsoleColor`0" priority="63" />
+      <Item value="IList" priority="383" />
+      <Item value="Veiculo`0" priority="751" />
+      <Item value="Veiculos" priority="128" />
+      <Item value="veiculo" priority="856" />
+      <Item value="Loja`0" priority="593" />
+      <Item value="Loja" priority="110" />
+      <Item value="Veiculo" priority="244" />
+      <Item value="Lojas" priority="85" />
+      <Item value="loja" priority="730" />
+      <Item value="this" priority="31" />
+      <Item value="interface" priority="154" />
+      <Item value="IRepositorio" priority="127" />
+      <Item value="void" priority="223" />
+      <Item value="_veiculoDao" priority="211" />
+      <Item value="VeiculoServico`0" priority="90" />
+      <Item value="IVeiculoDAO`0" priority="341" />
+      <Item value="veiculoDao" priority="350" />
+      <Item value="_lojaDao" priority="151" />
+      <Item value="lojaDao" priority="493" />
+      <Item value="VeiculoMap`0" priority="62" />
+      <Item value="using" priority="123" />
+      <Item value="Concessionaria" priority="125" />
+      <Item value="Control" priority="138" />
+      <Item value="Repositorios" priority="53" />
+      <Item value="Id`0" priority="31" />
+      <Item value="x" priority="191" />
+      <Item value="Map`0" priority="95" />
+      <Item value="References`1" priority="31" />
+      <Item value="LojaMap`0" priority="62" />
+      <Item value="HasMany`1" priority="31" />
+      <Item value="T`0" priority="31" />
+      <Item value="IDisposable`0" priority="31" />
+      <Item value="DAO" priority="63" />
+      <Item value="private" priority="159" />
+      <Item value="readonly" priority="63" />
+      <Item value="IDatabaseCreator`0" priority="186" />
+      <Item value="_databaseCreator" priority="247" />
+      <Item value="ILojaDAO`0" priority="406" />
+      <Item value="IServicosDAO`0" priority="218" />
+      <Item value="_servicosDao" priority="188" />
+      <Item value="var" priority="223" />
+      <Item value="new" priority="991" />
+      <Item value="base" priority="31" />
+      <Item value="Nome" priority="63" />
+      <Item value="nome" priority="159" />
+      <Item value="Castle" priority="61" />
+      <Item value="Windsor" priority="26" />
+      <Item value="DatabaseCreator`0" priority="31" />
+      <Item value="Model" priority="26" />
+      <Item value="Mapeamentos" priority="22" />
+      <Item value="Helpers" priority="22" />
+      <Item value="Servicos`0" priority="159" />
+      <Item value="VeiculoDAO`0" priority="31" />
+      <Item value="_DatabaseCreator" priority="32" />
+      <Item value="_ServicosDao" priority="32" />
+      <Item value="_servicosDao`0" priority="31" />
+      <Item value="dao" priority="83" />
+      <Item value="_servicos" priority="123" />
+      <Item value="LojaDAO`0" priority="31" />
+      <Item value="Marca" priority="31" />
+      <Item value="marca" priority="31" />
+      <Item value="Cor" priority="31" />
+      <Item value="cor" priority="159" />
+      <Item value="Ano" priority="31" />
+      <Item value="ano" priority="31" />
+      <Item value="Modelo" priority="31" />
+      <Item value="modelo" priority="31" />
+      <Item value="null" priority="156" />
+      <Item value="pages" priority="61" />
+      <Item value="Response" priority="474" />
+      <Item value="LojaDAO" priority="57" />
+      <Item value="sessionProvider" priority="123" />
+      <Item value="VeiculoDAO" priority="28" />
+      <Item value="try" priority="63" />
+      <Item value="ex" priority="95" />
+      <Item value="Global`0" priority="181" />
+      <Item value="global" priority="31" />
+      <Item value="tblDados" priority="223" />
+      <Item value="servico" priority="27" />
+      <Item value="lojaServico" priority="427" />
+      <Item value="LojaServico" priority="57" />
+      <Item value="SessionProvider" priority="28" />
+      <Item value="SessionFactoryProvider`0" priority="31" />
+      <Item value="sessionFactoryProvider" priority="59" />
+      <Item value="SessionFactoryProvider" priority="28" />
+      <Item value="foreach" priority="255" />
+      <Item value="TableRow" priority="86" />
+      <Item value="TableCell" priority="57" />
+      <Item value="row" priority="63" />
+      <Item value="cell" priority="127" />
+      <Item value="veiculos" priority="87" />
+      <Item value="rowVei" priority="95" />
+      <Item value="cellVei" priority="95" />
+      <Item value="LojaServico`0" priority="122" />
+      <Item value="container" priority="418" />
+      <Item value="ILojaServico`0" priority="191" />
+      <Item value="IVeiculoServico`0" priority="250" />
+      <Item value="veiculoServico" priority="212" />
+      <Item value="cellLoja" priority="31" />
+      <Item value="DropDownListLoja" priority="192" />
+      <Item value="lojas" priority="437" />
+      <Item value="ListItem" priority="57" />
+      <Item value="protected" priority="31" />
+      <Item value="if" priority="575" />
+      <Item value="Request" priority="309" />
+      <Item value="Entidades" priority="107" />
+      <Item value="veiculoNovo" priority="154" />
+      <Item value="param" priority="63" />
+      <Item value="_lojaServico" priority="91" />
+      <Item value="_veiculoServico" priority="91" />
+      <Item value="PreencherGrade`0" priority="63" />
+      <Item value="Convert`0" priority="218" />
+      <Item value="EditableBindingList&lt;Loja&gt;" priority="57" />
+      <Item value="HttpRequest`0" priority="31" />
+      <Item value="QueryStringParameter`0" priority="31" />
+      <Item value="FormParameter`0" priority="31" />
+      <Item value="IsClientScriptBlockRegistered`0" priority="30" />
+      <Item value="return" priority="63" />
+      <Item value="expression" priority="31" />
+      <Item value="ICriterion`0" priority="31" />
+      <Item value="ICriteriaQuery`0" priority="31" />
+      <Item value="ICriteria`0" priority="31" />
+      <Item value="Expression`0" priority="31" />
+      <Item value="TextBoxNome" priority="159" />
+      <Item value="filtro" priority="31" />
+      <Item value="String`0" priority="62" />
+      <Item value="DropDownListLoja_OnSelectedIndexChanged`0" priority="27" />
+      <Item value="valor" priority="31" />
+      <Item value="else" priority="351" />
+      <Item value="Func" priority="32" />
+      <Item value="XPath`0" priority="95" />
+      <Item value="IEnumerable`0" priority="31" />
+      <Item value="throw" priority="31" />
+      <Item value="lojaNova" priority="63" />
+      <Item value="acao" priority="149" />
+      <Item value="IFieldControl`0" priority="31" />
+      <Item value="exemplo" priority="191" />
+      <Item value="MatchMode`0" priority="31" />
+      <Item value="v" priority="95" />
+      <Item value="XmlDocument`0" priority="31" />
+      <Item value="XmlDocument" priority="28" />
+      <Item value="XmlNode`0" priority="272" />
+      <Item value="doc" priority="511" />
+      <Item value="raiz" priority="31" />
+      <Item value="Load" priority="31" />
+      <Item value="filtroLoja" priority="58" />
+      <Item value="filtroNome" priority="89" />
+      <Item value="xmlLojas" priority="31" />
+      <Item value="nodeLojas" priority="31" />
+      <Item value="nodeLoja" priority="159" />
+      <Item value="XmlAttribute`0" priority="63" />
+      <Item value="attrIdLoja" priority="63" />
+      <Item value="nodeVeiculo" priority="159" />
+      <Item value="attrIdVeiculo" priority="63" />
+      <Item value="nodeVeiculos" priority="63" />
+      <Item value="propriedade" priority="191" />
+      <Item value="for" priority="31" />
+      <Item value="nomes" priority="62" />
+      <Item value="Count`1" priority="26" />
+      <Item value="Length" priority="26" />
+      <Item value="valores" priority="31" />
+      <Item value="i" priority="31" />
+      <Item value="Color" priority="57" />
+      <Item value="ColorConverter`0" priority="31" />
+      <Item value="WebColorConverter`0" priority="31" />
+      <Item value="Color`0" priority="255" />
+      <Item value="KnownColor" priority="28" />
+      <Item value="KnownColor`0" priority="31" />
+      <Item value="TableRow`0" priority="31" />
+      <Item value="linha" priority="95" />
+      <Item value="true" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Entidades.Veiculo">
+      <Item value="Loja" priority="157" />
+      <Item value="Id" priority="103" />
+      <Item value="Nome" priority="404" />
+      <Item value="Marca" priority="122" />
+      <Item value="Ano" priority="118" />
+      <Item value="Modelo" priority="95" />
+      <Item value="Cor" priority="149" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityPart">
+      <Item value="GeneratedBy" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityGenerationStrategyBuilder`1">
+      <Item value="Native`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Entidades.Loja">
+      <Item value="Nome" priority="161" />
+      <Item value="Veiculos" priority="107" />
+      <Item value="AdicionarVeiculos`0" priority="26" />
+      <Item value="Id" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Model.Helpers.SessionFactoryProvider">
+      <Item value="CriarDB`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Repositorios.IDatabaseCreator">
+      <Item value="CriarDB`0" priority="54" />
+      <Item value="InserirDadosTeste`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Repositorios.ILojaDAO">
+      <Item value="SaveOrUpdateAndFlush`0" priority="53" />
+      <Item value="GetAll`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Repositorios.IServicosDAO">
+      <Item value="InserirDadosTeste`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Repositorios.IVeiculoDAO">
+      <Item value="SaveOrUpdateAndFlush`0" priority="53" />
+      <Item value="PesquisarNome`0" priority="26" />
+      <Item value="Delete`0" priority="26" />
+      <Item value="PesquisaTipo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Write`0" priority="404" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="alert" priority="131" />
+      <Item value="data" priority="10" />
+      <Item value="request" priority="21" />
+      <Item value="function" priority="54" />
+      <Item value="$" priority="169" />
+      <Item value="" priority="4" />
+      <Item value="limparForm" priority="10" />
+      <Item value="id" priority="21" />
+      <Item value="buscarVeiculo" priority="5" />
+      <Item value="confirm" priority="10" />
+      <Item value="if" priority="10" />
+      <Item value="dados" priority="21" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Servicos.LojaServico">
+      <Item value="PesquisarTodos`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Table">
+      <Item value="Rows" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableRowCollection">
+      <Item value="Add`0" priority="53" />
+      <Item value="Count" priority="26" />
+      <Item value="Clear`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableRow">
+      <Item value="Cells" priority="161" />
+      <Item value="CssClass" priority="53" />
+      <Item value="BackColor" priority="27" />
+      <Item value="ForeColor" priority="54" />
+      <Item value="Font" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableCellCollection">
+      <Item value="Add`0" priority="53" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableCell">
+      <Item value="Text" priority="134" />
+      <Item value="ColumnSpan" priority="26" />
+      <Item value="BackColor" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="269" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Servicos.Servicos">
+      <Item value="InserirDadosTeste`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="toString" priority="26" />
+      <Item value="onreadystatechange" priority="8" />
+      <Item value="html" priority="37" />
+      <Item value="val" priority="63" />
+      <Item value="focus" priority="9" />
+      <Item value="click" priority="38" />
+      <Item value="change" priority="8" />
+      <Item value="show" priority="18" />
+      <Item value="hidden" priority="7" />
+      <Item value="hide" priority="16" />
+      <Item value="Nome" priority="17" />
+      <Item value="Marca" priority="16" />
+      <Item value="Ano" priority="9" />
+      <Item value="Modelo" priority="9" />
+      <Item value="Cor" priority="9" />
+      <Item value="Loja" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.WindsorContainer">
+      <Item value="Resolve`0" priority="134" />
+      <Item value="Resolve`1" priority="203" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="DataSource" priority="26" />
+      <Item value="SelectedItem" priority="26" />
+      <Item value="Items" priority="80" />
+      <Item value="SelectedValue" priority="53" />
+      <Item value="SelectedIndexChanged" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Concessionaria.Global">
+      <Item value="InicializarContainer`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Servicos.ILojaServico">
+      <Item value="PesquisarTodos`0" priority="188" />
+      <Item value="PesquisarUm`0" priority="76" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="Add`0" priority="53" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Params" priority="49" />
+      <Item value="QueryString" priority="53" />
+      <Item value="Form" priority="184" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="53" />
+      <Item value="Count" priority="53" />
+      <Item value="Where`1" priority="53" />
+      <Item value="Select`2" priority="27" />
+      <Item value="SelectMany`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Servicos.IServicos">
+      <Item value="CriarDB`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.FormParameter">
+      <Item value="FormField" priority="26" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ICriteria">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NHibernate.Criterion.Expression">
+      <Item value="Like`0" priority="26" />
+      <Item value="InsensitiveLike`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="26" />
+      <Item value="Contains`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Concessionaria.Control.Servicos.IVeiculoServico">
+      <Item value="PesquisarUm`0" priority="53" />
+      <Item value="PesquisarNome`0" priority="26" />
+      <Item value="PesquisarTipo`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NHibernate.Criterion.Example">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Criterion.Example">
+      <Item value="EnableLike`0" priority="26" />
+      <Item value="IgnoreCase`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NHibernate.Criterion.MatchMode">
+      <Item value="Anywhere" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="CreateXmlDeclaration`0" priority="22" />
+      <Item value="AppendChild`0" priority="53" />
+      <Item value="CreateElement`0" priority="215" />
+      <Item value="CreateAttribute`0" priority="80" />
+      <Item value="InnerText" priority="26" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Value" priority="26" />
+      <Item value="OuterXml" priority="22" />
+      <Item value="XmlResolver" priority="22" />
+      <Item value="InnerXml" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="AppendChild`0" priority="134" />
+      <Item value="Attributes" priority="53" />
+      <Item value="Value" priority="26" />
+      <Item value="InnerText" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlElement">
+      <Item value="Attributes" priority="26" />
+      <Item value="InnerText" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttributeCollection">
+      <Item value="Append`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="InnerText" priority="26" />
+      <Item value="Value" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlResolver">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.ColorConverter">
+      <Item value="StandardValuesCollection`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="FromName`0" priority="81" />
+      <Item value="FromKnownColor`0" priority="27" />
+      <Item value="FromArgb`0" priority="22" />
+      <Item value="White" priority="53" />
+      <Item value="Yellow" priority="27" />
+      <Item value="Black" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.FontInfo">
+      <Item value="Bold" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

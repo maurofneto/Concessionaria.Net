@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="crudLoja.aspx.cs" Inherits="Concessionaria.ajax.CRUD.Loja.crudLoja" %>

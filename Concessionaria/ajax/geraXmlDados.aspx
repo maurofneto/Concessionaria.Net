@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="geraXmlDados.aspx.cs" Inherits="Concessionaria.ajax.geraXmlDados" %>

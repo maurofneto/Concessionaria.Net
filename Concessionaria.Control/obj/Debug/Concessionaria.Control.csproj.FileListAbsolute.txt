@@ -1,0 +1,5 @@
+c:\users\mauroneto\documents\visual studio 2010\Projects\Concessionaria\Concessionaria.Control\bin\Debug\Concessionaria.Control.dll
+c:\users\mauroneto\documents\visual studio 2010\Projects\Concessionaria\Concessionaria.Control\bin\Debug\Concessionaria.Control.pdb
+c:\users\mauroneto\documents\visual studio 2010\Projects\Concessionaria\Concessionaria.Control\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mauroneto\documents\visual studio 2010\Projects\Concessionaria\Concessionaria.Control\obj\Debug\Concessionaria.Control.dll
+c:\users\mauroneto\documents\visual studio 2010\Projects\Concessionaria\Concessionaria.Control\obj\Debug\Concessionaria.Control.pdb

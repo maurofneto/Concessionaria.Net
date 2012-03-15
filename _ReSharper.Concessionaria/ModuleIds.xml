@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="6BB7F54D-235A-4E24-B97A-CE6C02C9E67D" ModuleId="Concessionaria" />
+  <Module PersistentId="1853D6FB-1FED-4198-95DB-6A02EC67ECE6" ModuleId="Concessionaria.Control" />
+  <Module PersistentId="BC436F6C-3E45-44A5-B18D-4C0D13B12EF6" ModuleId="Concessionaria.Model" />
+</Modules>
